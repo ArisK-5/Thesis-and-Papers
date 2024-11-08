@@ -1,3 +1,3 @@
-# Thesis-and-Papers
+# Thesis
 
-A space for my ongoing and completed works.
+Exploratory Analysis of Ferromagnetic materials using data from the open-source Materials Project database.
